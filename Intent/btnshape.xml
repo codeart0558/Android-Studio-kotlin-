@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+       <solid android:color="@color/newclor"></solid>
+       <size android:width="200dp" android:height="50dp"></size>
+<!--   i add this in actibity in xml fie 2:-   android:background="@drawable/btnshape"-->
+</selector>
